@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1dSUri7qxmUwYr-b0Z0lVjPde0dULjkMh
 """
 
-!pip install -q streamlit
-print("✅ Streamlit instalado")
+
 
 procesos = [
     "Recibo y entrada de mercancía",
