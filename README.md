@@ -1,7 +1,7 @@
 [![Abrir Optantra](https://img.shields.io/badge/Abrir%20Optantra-Streamlit-orange?logo=streamlit)](https://optantra.streamlit.app/)
 
 
-![Banner promocional](banner_ia.png)
+[![Banner promocional](banner_ia.png)](https://optantra.streamlit.app/)
 
 
 # 🚛 Optantra – Diagnóstico logístico inteligente
