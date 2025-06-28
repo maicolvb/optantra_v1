@@ -1,3 +1,6 @@
+[![Abrir Optantra](https://img.shields.io/badge/Abrir%20Optantra-Streamlit-orange?logo=streamlit)](https://optantra.streamlit.app/)
+
+
 ![Banner promocional](banner_ia.png)
 
 
