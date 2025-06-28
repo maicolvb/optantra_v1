@@ -1,3 +1,6 @@
+![Banner promocional](banner.png)
+
+
 # 🚛 Optantra – Diagnóstico logístico inteligente
 
 > 📊 Plataforma inteligente para detectar cuellos de botella y sugerir acciones correctivas en procesos logísticos clave.
