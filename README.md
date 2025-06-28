@@ -1,4 +1,4 @@
-![Banner promocional](banner.png)
+![Banner promocional](banner_ia.png)
 
 
 # 🚛 Optantra – Diagnóstico logístico inteligente
